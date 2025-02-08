@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441455237495",
+    "project_id": "paperpod-5b7ed",
+    "storage_bucket": "paperpod-5b7ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441455237495:android:3fca96c3101b97d5656972",
+        "android_client_info": {
+          "package_name": "com.grodai.paperpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW5gFa4YnPn2i8NyxIy7zqzyRnnq_-KU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
